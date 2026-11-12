@@ -1,0 +1,14 @@
+# simulation output (tb/Makefile)
+tb/build/
+
+# Vivado / xsim side files
+*.jou
+*.pb
+*.wdb
+*.vcd
+xsim.dir/
+.Xil/
+webtalk*
+
+# Python
+__pycache__/
